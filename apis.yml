@@ -1,7 +1,11 @@
 aid: dynegy
-url: https://raw.githubusercontent.com/api-evangelist/dynegy/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/dynegy/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.dynegy.com
+description: >-
+  Dynegy is a certified retail electric service provider offering competitive electric
+  rates for homes and businesses in Ohio, Illinois, and Pennsylvania.
