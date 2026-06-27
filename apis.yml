@@ -19,7 +19,7 @@ common:
     url: https://www.dynegy.com
   - type: Website
     url: https://www.vistracorp.com/
-  - type: SignUp
+  - type: Signup
     url: https://www.dynegy.com/sign-up
   - type: Support
     url: https://www.dynegy.com/contact-us
