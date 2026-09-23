@@ -1,7 +1,9 @@
 ---
 title: AEP And Dynegy Complete Ownership Transfer For Co- ...
 url: https://www.prnewswire.com/news-releases/aep-and-dynegy-complete-ownership-transfer-for-co-owned-plants-300454639.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Dynegy" press release artificial intelligence'
 position: 1
 source: serpapi-google

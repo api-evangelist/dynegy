@@ -1,7 +1,9 @@
 ---
 title: Dynegy to exit energy trading, but industry rebound seen in ...
 url: https://www.computerworld.com/article/1335982/dynegy-to-exit-energy-trading-but-industry-rebound-seen-in-03.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Dynegy" press release artificial intelligence'
 position: 4
 source: serpapi-google
